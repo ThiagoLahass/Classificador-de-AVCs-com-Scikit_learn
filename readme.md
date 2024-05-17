@@ -53,7 +53,7 @@ O objetivo principal deste projeto é desenvolver um modelo capaz de analisar os
    - Utilizar técnicas de validação cruzada, como cross-validation, para avaliar o desempenho do modelo e garantir sua generalização para dados não vistos.
    <div style="display: flex;">
     <img src="/img/AUC-Random_Forest.png" alt="AUC Curve" style="width: 45%; height: 50%; object-fit: contain;">
-    <img src="/img/matriz_confusao-Random_Forest.png" alt="Matriz de Confusão" style="width: 45%; height: 50%; object-fit: contain;">
+    <img src="/img/matriz_confusao-Random_Forest.png" alt="Matriz de Confusão" style="width: 45%; height: 45%; object-fit: contain;">
    </div>
 
 ## Como usar
