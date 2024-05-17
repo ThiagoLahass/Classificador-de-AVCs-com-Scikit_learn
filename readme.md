@@ -51,8 +51,10 @@ O objetivo principal deste projeto é desenvolver um modelo capaz de analisar os
 
 5. **Utilizar validação cruzada:**
    - Utilizar técnicas de validação cruzada, como cross-validation, para avaliar o desempenho do modelo e garantir sua generalização para dados não vistos.
-   ![AUC Curve](/img/AUC-Random_Forest.png)
-   ![Matriz de Confusão](/img/matriz_confusao-Random_Forest.png)
+   <div style="display: flex;">
+    <img src="/img/AUC-Random_Forest.png" alt="AUC Curve" style="width: 45%;">
+    <img src="/img/matriz_confusao-Random_Forest.png" alt="Matriz de Confusão" style="width: 45%;">
+   </div>
 
 ## Como usar
 - Os dados do Kaggle já estão disponíveis na pasta "data".
